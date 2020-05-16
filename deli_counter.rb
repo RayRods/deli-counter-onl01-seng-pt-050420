@@ -27,6 +27,6 @@ end
 
 
 
-                 
+                 0        1        2
   katz_deli = ["Logan", "Avi", "Spencer"]
  
