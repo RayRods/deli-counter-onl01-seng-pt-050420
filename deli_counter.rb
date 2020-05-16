@@ -18,14 +18,18 @@ end
 
 
 def now_serving(katz_deli)
-  if katz_deli 
+  if katz_deli > 0 
+    
   end
 end
 
 
 Line is empty
 
-if empty do this 
 
 if not empty do that 
+  
+if empty do this 
+
+
   
