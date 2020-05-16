@@ -30,4 +30,4 @@ end
 
   
   
-  katz_deli = ["Alex", "Ele", "Dog", "Cat", "Trees"]
+  katz_deli = ["Ele", "Dog", "Cat", "Trees"]
