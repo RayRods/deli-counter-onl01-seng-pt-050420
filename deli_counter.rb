@@ -17,8 +17,8 @@ end
 
 
 
-def now_serving(katz_deli)
-  if katz_deli == 0 
+def now_serving(status)
+  if status == 0 
     puts "There is nobody waiting to be served!"
   else 
     puts "Currently serving #{katz_deli}."
