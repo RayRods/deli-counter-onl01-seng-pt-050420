@@ -19,7 +19,7 @@ def now_serving(katz_deli)
  if katz_deli.length == 0 
    puts "There is nobody waiting to be served!"
  else
-   
+   puts ""
    katz_deli.shift
    puts 
  end
@@ -30,4 +30,4 @@ end
 
   
   
-  katz_deli = ["Ele", "Dog", "Cat", "Trees"]
+ 
